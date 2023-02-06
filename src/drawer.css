@@ -9,4 +9,5 @@
   overflow-x: hidden;
   padding: 30px;
   color: white;
+  transition : 0.5s;
 }
